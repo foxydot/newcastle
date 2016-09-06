@@ -7029,7 +7029,7 @@ img#wpstats {
   text-align: inherit;
 }
 .pre-header {
-  background-color: #1f2b58;
+  background-color: #1b743f;
   color: white;
   z-index: 300;
 }
@@ -7969,7 +7969,7 @@ Sidebars
 Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
 .footer-widgets {
-  background-color: #005395;
+  background-color: #104927;
   color: #ffffff;
   clear: both;
   padding: 2rem 0;
@@ -8098,7 +8098,7 @@ Footer Widgets
 Site Footer
 ---------------------------------------------------------------------------------------------------- */
 .site-footer {
-  background-color: #1f2b58;
+  background-color: #1b743f;
   color: #ffffff;
   font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
@@ -8177,7 +8177,7 @@ Site Footer
   text-align: center;
 }
 .site-footer .wrap .backtotop a {
-  color: #1f2b58;
+  color: #104927;
   font-size: 2em;
   line-height: 1;
 }
