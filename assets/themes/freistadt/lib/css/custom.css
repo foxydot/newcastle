@@ -1,4 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Raleway:400,200,700);
+@import url(//fonts.googleapis.com/css?family=Yellowtail);
 /* Import Fonts
 ------------------------------------------------------------ */
 @font-face {
@@ -91,7 +92,7 @@
   text-shadow: 0 0 8px #888888;
   background: rgba(255, 255, 255, 0);
   display: block;
-  font-family: "jenna_sueregular", cursive;
+  font-family: 'Yellowtail', cursive;
   font-weight: 400;
   font-size: 80px;
   font-size: 8rem;

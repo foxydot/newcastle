@@ -1,4 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Raleway:400,200,700);
+@import url(//fonts.googleapis.com/css?family=Yellowtail);
 /* Import Fonts
 ------------------------------------------------------------ */
 @font-face {
@@ -159,7 +160,7 @@
   font-weight: 800;
 }
 .sectioned-page-wrapper .section.section-charm .section-body .section-content.column-1 h3 em {
-  font-family: "jenna_sueregular", cursive;
+  font-family: 'Yellowtail', cursive;
   font-size: 60px;
   font-size: 6rem;
   line-height: 1;
