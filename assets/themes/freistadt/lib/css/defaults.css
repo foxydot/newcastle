@@ -264,7 +264,7 @@ textarea:focus {
   opacity: 1;
 }
 ::-webkit-input-placeholder {
-  color: #2d2d2d;
+  color: #d4d4d4;
 }
 button,
 input[type="button"],
