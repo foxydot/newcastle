@@ -262,7 +262,7 @@ Site Navigation
   text-transform: uppercase;
 }
 .nav-secondary .wrap li.menu-item > a:hover {
-  color: #1f2b58;
+  color: #104927;
 }
 .nav-secondary .wrap li.menu-item ul {
   display: none;
@@ -322,7 +322,7 @@ Site Navigation
   font-size: 22px;
   font-size: 2.2rem;
   border-bottom: 0;
-  color: #005395;
+  color: #104927;
 }
 .widget_advanced_menu .menu > li.current-menu-item ul.sub-menu,
 .widget_advanced_menu .menu > li.current-menu-ancestor ul.sub-menu {
