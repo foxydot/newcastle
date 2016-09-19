@@ -162,7 +162,7 @@ Site Header
 .header-image .site-title a {
   float: left;
   min-height: 60px;
-  width: 118px;
+  width: 200px;
   height: 55px;
   background: url(../img/logo.png) no-repeat center left;
   background-size: contain;
