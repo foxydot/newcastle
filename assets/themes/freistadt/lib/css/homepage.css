@@ -231,12 +231,12 @@
   padding-right: 2rem;
 }
 .sectioned-page-wrapper .section.section-forms .section-content h3 {
+  color: #fcb040;
   font-family: 'Libre Baskerville', serif;
   font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
-  color: #fcb040;
 }
 .sectioned-page-wrapper .section.section-forms .section-content .gform_wrapper {
   margin: 0;
