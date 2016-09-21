@@ -8490,11 +8490,11 @@ Site Footer
 .sidebar.sidebar-primary section.widget.widget_text {
   padding: 2rem;
   margin-bottom: 4rem;
-  color: #666666;
+  color: #fcb040;
 }
 .sidebar.sidebar-primary section.widget.widget_text .widget-wrap {
-  background-color: #1f2b58;
-  border: 1px solid #666666;
+  background-color: transparent;
+  border: 1px solid #fcb040;
   border-radius: 12px;
   text-align: center;
   padding: 2rem;
@@ -8504,9 +8504,9 @@ Site Footer
   background-repeat: no-repeat;
   background-position: center left;
   background-size: 50px auto;
-  background-image: url(../img/icon-calculator.png);
+  background-image: url(../img/icon-calculator-orange.png);
   padding-left: 55px;
-  color: #666666;
+  color: #fcb040;
   font-size: 3rem;
   line-height: 1;
 }
@@ -8524,9 +8524,9 @@ Site Footer
   display: table;
   margin: 12px auto;
   text-decoration: none;
-  border: 2px solid #666666;
+  border: 2px solid #ffffff;
   border-radius: 6px;
-  background-color: #ffffff;
+  background-color: #ccc0ac;
   font-size: 14px;
   width: 98%;
 }
