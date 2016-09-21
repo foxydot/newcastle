@@ -280,7 +280,7 @@
 }
 .sectioned-page-wrapper .section.section-forms .section-content h3,
 .sectioned-page-wrapper .section.section-forms .section-content h3.gform_title {
-  color: #ffffff;
+  color: #fcb040;
   font-size: 1.3em;
   text-align: center;
   font-weight: 500;
@@ -290,13 +290,13 @@
   color: #fdb824;
 }
 .sectioned-page-wrapper .section.section-forms .section-content.column-2 {
-  color: #666666;
+  color: #fcb040;
 }
 .sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box {
   margin: 30px auto;
   width: auto;
   display: inline-block;
-  border: 1px solid #666666;
+  border: 1px solid #fcb040;
   border-radius: 12px;
   padding: 2rem;
   font-size: 2.1rem;
@@ -323,7 +323,7 @@
   background-size: 50px auto;
   background-image: url(../img/icon-calculator.png);
   padding-left: 55px;
-  color: #666666;
+  color: #fcb040;
   font-size: 3rem;
   line-height: 1;
   max-width: 280px;
