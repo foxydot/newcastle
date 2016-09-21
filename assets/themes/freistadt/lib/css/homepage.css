@@ -244,6 +244,9 @@
   color: #fcb040;
   font-size: 3rem;
 }
+.sectioned-page-wrapper .section.section-forms {
+  padding-bottom: 8em;
+}
 .sectioned-page-wrapper .section.section-forms .section-content {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -299,10 +302,12 @@
   border: 1px solid #fcb040;
   border-radius: 12px;
   padding: 2rem;
+  margin-left: 20%;
   font-size: 2.1rem;
 }
 .sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box h3 {
   margin-top: 0;
+  color: #fcb040;
 }
 .sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box .icon-calculator:before {
   margin: 2rem 0;
