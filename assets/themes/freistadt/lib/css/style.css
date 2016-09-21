@@ -8145,6 +8145,9 @@ Site Footer
 }
 .site-footer .wrap div.icons i.icon-equal-housing {
   background-image: url(../img/EHO-NEW.jpg);
+  height: 20px;
+  top: .15em;
+  position: relative;
 }
 .site-footer .wrap div.icons i.logo {
   height: 40px;
