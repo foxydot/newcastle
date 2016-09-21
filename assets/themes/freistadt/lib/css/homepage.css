@@ -292,10 +292,10 @@
 .sectioned-page-wrapper .section.section-forms .section-content h3.gform_title {
   color: #fdb824;
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 {
   color: #fcb040;
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box {
   margin: 30px auto;
   width: auto;
   display: inline-block;
@@ -305,11 +305,11 @@
   margin-left: 20%;
   font-size: 2.1rem;
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box h3 {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box h3 {
   margin-top: 0;
   color: #fcb040;
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box .icon-calculator:before {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box .icon-calculator:before {
   margin: 2rem 0;
   content: '';
   height: 160px;
@@ -319,10 +319,10 @@
   background-size: 70px auto;
   background-image: url(../img/icon-calculator.png);
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box p {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box p {
   margin: 0;
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box h3 {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box h3 {
   background-repeat: no-repeat;
   background-position: center left;
   background-size: 50px auto;
@@ -335,7 +335,7 @@
   margin-left: auto;
   margin-right: auto;
 }
-.sectioned-page-wrapper .section.section-forms .section-content.column-2 .calculator-box .button {
+.sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box .button {
   padding: 6px 24px;
   font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
