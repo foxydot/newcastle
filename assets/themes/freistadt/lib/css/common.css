@@ -190,7 +190,7 @@ img.alignright,
 .section-title a,
 .entry-title a,
 .sidebar .widget-title a {
-  color: #005395;
+  color: #104927;
 }
 .section-title a:hover,
 .entry-title a:hover {
@@ -205,7 +205,7 @@ img.alignright,
   margin-bottom: 24px;
   margin-bottom: 2.4rem;
 }
-/* Clears 
+/* Clears
 ----------------------------------------------- */
 .pre-header:after,
 .site-header:after,
