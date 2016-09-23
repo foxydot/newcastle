@@ -135,11 +135,11 @@
 .sidebar.sidebar-primary section.widget.widget_text {
   padding: 2rem;
   margin-bottom: 4rem;
-  color: #fcb040;
+  color: #666666;
 }
 .sidebar.sidebar-primary section.widget.widget_text .widget-wrap {
-  background-color: #ffffff;
-  border: 1px solid #fcb040;
+  background-color: #fcb040;
+  border: 1px solid #104927;
   border-radius: 12px;
   text-align: center;
   padding: 2rem;
@@ -149,9 +149,9 @@
   background-repeat: no-repeat;
   background-position: center left;
   background-size: 50px auto;
-  background-image: url(../img/icon-calculator-orange.png);
+  background-image: url(../img/icon-calculator.png);
   padding-left: 55px;
-  color: #fcb040;
+  color: #666666;
   font-size: 3rem;
   line-height: 1;
 }
