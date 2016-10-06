@@ -10,6 +10,12 @@
 @import url(//fonts.googleapis.com/css?family=Pinyon+Script);
 @import url(//fonts.googleapis.com/css?family=Dancing+Script:400,700);
 
+@fontface {
+  font-family: 'Cylburn_Regular';
+  src: url('..fonts/Cylburn-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 @font-face {
     font-family: 'jenna_sueregular';
@@ -67,7 +73,7 @@
 }
 
 .script(@size:8){
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Cylburn_Regular', cursive;
   font-weight: 400;
   font-size: unit((@size*10),px);
   font-size: unit(@size,rem);

@@ -5,6 +5,12 @@
 @import url(//fonts.googleapis.com/css?family=Dancing+Script:400,700);
 /* Import Fonts
 ------------------------------------------------------------ */
+@fontface {
+  font-family: 'Cylburn_Regular';
+  src: url('..fonts/Cylburn-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 @font-face {
   font-family: 'jenna_sueregular';
   src: url('../fonts/jennasue-webfont.eot');
