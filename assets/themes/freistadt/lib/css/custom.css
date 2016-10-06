@@ -2,6 +2,7 @@
 @import url(//fonts.googleapis.com/css?family=Yellowtail);
 @import url(//fonts.googleapis.com/css?family=Libre+Baskerville);
 @import url(//fonts.googleapis.com/css?family=Pinyon+Script);
+@import url(//fonts.googleapis.com/css?family=Dancing+Script:400,700);
 /* Import Fonts
 ------------------------------------------------------------ */
 @font-face {
@@ -94,7 +95,7 @@
   text-shadow: 0 0 8px #666666;
   background: rgba(255, 255, 255, 0);
   display: block;
-  font-family: 'Pinyon Script', cursive;
+  font-family: 'Dancing Script', cursive;
   font-weight: 400;
   font-size: 80px;
   font-size: 8rem;
