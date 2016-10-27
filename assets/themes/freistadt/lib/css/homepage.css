@@ -186,6 +186,15 @@
   position: relative;
   top: 2em;
 }
+.sectioned-page-wrapper .section.section-healthy-charming-relaxed .section-body h4 {
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-size: 80px;
+  font-size: 8rem;
+  line-height: 1;
+  color: #104927;
+  font-size: 4rem;
+}
 .sectioned-page-wrapper .section.section-healthy-charming-relaxed .section-body .section-content.column-1 {
   position: relative;
 }
