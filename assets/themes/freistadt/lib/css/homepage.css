@@ -405,6 +405,7 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 .sectioned-page-wrapper .section.section-welcome-home {
   padding: 10em 0;
