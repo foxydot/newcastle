@@ -137,6 +137,15 @@
           position: relative;
         }
         &.column-2{
+          h3{
+            .customserif(5);
+            color: @mdgrey;
+            font-weight: 800;
+            em{
+              .script(6);
+              font-weight: 400;
+            }
+          }
           table{
             tbody{border: 0;}
             tr{
@@ -154,12 +163,6 @@
             border: 0;
             -webkit-box-shadow: 0 0 0 0 @white;
             box-shadow: 0 0 0 0 @white;
-          }
-          h3{
-            .customheader(3);
-            color: @mdgrey;
-            font-weight: 400;
-            margin: 0;
           }
         }
       }

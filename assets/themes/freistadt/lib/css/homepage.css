@@ -223,6 +223,22 @@
 .sectioned-page-wrapper .section.section-programs .section-body .section-content.column-1 {
   position: relative;
 }
+.sectioned-page-wrapper .section.section-programs .section-body .section-content.column-2 h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+  font-size: 50px;
+  font-size: 5rem;
+  line-height: 1.625;
+  color: #666666;
+  font-weight: 800;
+}
+.sectioned-page-wrapper .section.section-programs .section-body .section-content.column-2 h3 em {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 60px;
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 400;
+}
 .sectioned-page-wrapper .section.section-programs .section-body .section-content.column-2 table tbody {
   border: 0;
 }
@@ -238,15 +254,6 @@
   border: 0;
   -webkit-box-shadow: 0 0 0 0 #ffffff;
   box-shadow: 0 0 0 0 #ffffff;
-}
-.sectioned-page-wrapper .section.section-programs .section-body .section-content.column-2 h3 {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-size: 30px;
-  font-size: 3rem;
-  line-height: 1.625;
-  color: #666666;
-  font-weight: 400;
-  margin: 0;
 }
 .sectioned-page-wrapper .section.section-welcome {
   padding-top: 3em;
