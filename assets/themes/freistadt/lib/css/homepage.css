@@ -136,6 +136,7 @@
   border: 16px solid #ffffff;
   -webkit-box-shadow: 0 0 6px 0 #666666;
   box-shadow: 0 0 6px 0 #666666;
+  margin: 0;
 }
 .sectioned-page-wrapper .section .section-body a.bullet {
   background-image: url(../img/bullet-arrow.png);
@@ -253,6 +254,7 @@
   border: 0;
   -webkit-box-shadow: 0 0 0 0 #ffffff;
   box-shadow: 0 0 0 0 #ffffff;
+  margin: auto;
 }
 .sectioned-page-wrapper .section.section-welcome {
   padding-top: 3em;
