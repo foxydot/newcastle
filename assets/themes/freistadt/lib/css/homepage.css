@@ -178,6 +178,15 @@
   line-height: 1;
   font-weight: 400;
 }
+.sectioned-page-wrapper .section.section-charm .section-body .section-content.column-1 h4 {
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-size: 80px;
+  font-size: 8rem;
+  line-height: 1;
+  color: #104927;
+  font-size: 4rem;
+}
 .sectioned-page-wrapper .section.section-charm .section-body .section-content.column-2 {
   position: relative;
   top: -6em;
