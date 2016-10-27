@@ -222,6 +222,7 @@
 }
 .sectioned-page-wrapper .section.section-programs .section-body .section-content.column-1 {
   position: relative;
+  top: 1.25em;
 }
 .sectioned-page-wrapper .section.section-programs .section-body .section-content.column-2 h3 {
   font-family: 'Cormorant Garamond', serif;
