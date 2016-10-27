@@ -195,6 +195,22 @@
   position: relative;
   top: 2em;
 }
+.sectioned-page-wrapper .section.section-programs .section-body h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+  font-size: 50px;
+  font-size: 5rem;
+  line-height: 1.625;
+  color: #666666;
+  font-weight: 800;
+}
+.sectioned-page-wrapper .section.section-programs .section-body h3 em {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 60px;
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 400;
+}
 .sectioned-page-wrapper .section.section-programs .section-body h4 {
   font-family: 'Pinyon Script', cursive;
   font-weight: 400;
