@@ -503,14 +503,4 @@
   .sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box {
     width: 100%;
   }
-  .sectioned-page-wrapper .section.section-programs {
-    padding: 100vw 0 0 0;
-    background-position: top left;
-    background-size: 220% auto;
-  }
-  .sectioned-page-wrapper .section.section-programs .section-title,
-  .sectioned-page-wrapper .section.section-programs .section-body {
-    background-color: #FFF;
-    padding: 0 2vw;
-  }
 }
