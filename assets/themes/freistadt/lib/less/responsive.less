@@ -52,6 +52,12 @@
 
 @media only screen and (max-width: 980px) {
   /* Enter Your Custom Styles Here */ 
+.header-image .site-header .title-area{ 
+  padding-top: 1rem;
+  .site-title{
+    background: @white;
+    }
+  }
   .section-title{
     font-size: 7vw;
   }
@@ -59,10 +65,14 @@
     background-image: none;
   }
   .footer-widgets{
-    .widget.widget_nav_menu ul.menu {
-      -moz-column-count: 3;
-      -webkit-column-count: 3;
-      column-count: 3;
+    .widget.widget_nav_menu{ 
+      padding-left: 0;
+      ul.menu {
+        padding-left: 0;
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
+        column-count: 3;
+      }
     }
   }
 }
@@ -92,7 +102,7 @@
       width: 100%;
       position: relative;
       text-indent: 20px;
-      background: @ltorange;
+      background: @newgreen;
       min-height: 50px;
       padding-top: 14px;
       position: relative;
@@ -109,7 +119,7 @@
           list-style: none;
           padding: 0;
           a{
-            background: @ltorange;
+            background: @newgreen;
             color: @white;
             display: block;
             width: 100%;
@@ -123,7 +133,7 @@
             }
           }
           a:hover{
-            background: lighten(@ltorange,10%);
+            background: lighten(@newgreen,10%);
           }
           .toggle-switch{
             margin-right: 12px;
@@ -161,7 +171,7 @@
         }
         li.current-menu-item{
           a{
-          background: lighten(@ltorange, 15%);
+          background: lighten(@newgreen, 15%);
           }
         }
       }
